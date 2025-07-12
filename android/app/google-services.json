@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942161438907",
+    "project_id": "qcec-74414",
+    "storage_bucket": "qcec-74414.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942161438907:android:4ddc83ebb1b629fb41219e",
+        "android_client_info": {
+          "package_name": "com.qcec.notify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlC44nf3CguF7YBLYIGGpEFdPEptKzFnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
